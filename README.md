@@ -1,1 +1,2 @@
 # GithubApi
+GitHub API, GitHub platformunda bulunan projelerle etkileşimde bulunmak için kullanılan bir programlama arayüzüdür. Bu API, GitHub üzerindeki depoları yönetmek, kullanıcı bilgilerini almak, sorunları izlemek ve diğer birçok işlemi gerçekleştirmek için kullanılabilir. Bu API'yi kullanarak, JavaScript ile GitHub projeleri üzerinde çeşitli otomasyonlar veya özel uygulamalar oluşturabilirsiniz.
